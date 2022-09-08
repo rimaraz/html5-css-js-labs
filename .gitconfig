@@ -1,0 +1,13 @@
+[user]
+    name = rimaraz
+    email = ricardo.martinez.ram@gmail.com
+[http]
+    sslVerify = false
+[https]
+    sslverify = false
+[push]
+    default = simple
+[credential]
+    helper = cache --timeout=360000000
+[core]
+    autocrlf = false
